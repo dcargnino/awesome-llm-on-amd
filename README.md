@@ -7,6 +7,8 @@
 
 Community-curated guides, benchmarks, videos, and real-world experiences for running LLMs on AMD hardware with ROCm, Vulkan, llama.cpp, vLLM, Ollama, and PyTorch.
 
+![AMD Ryzen AI demo](assets/ams_ryzen_ai.gif)
+
 ## Project Progress
 
 `[###.......] 30%`
